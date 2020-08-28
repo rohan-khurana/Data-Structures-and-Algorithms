@@ -48,7 +48,7 @@ int main(void) {
 		
 	selectionSort(arr,n);
 	
-	cout<<"\nAfter Insertion Sorting:\n";
+	cout<<"\nAfter Selection Sort:\n";
 	for(int i=0; i<n; i++)
 		cout<<arr[i]<<"\t";
   return 0;
