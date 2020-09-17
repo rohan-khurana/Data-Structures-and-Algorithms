@@ -14,3 +14,8 @@ Data Structures and Algorithms
   6. [Heap Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Heap%20Sort.cpp)
 ## Dynamic Programming
   1. [0/1 Knapsack Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/0-1%20Knapsack%20Problem.cpp)
+     - [Subset Sum Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Subset%20Sum%20Problem.cpp)
+     - [Equal Sum Partition Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Partition%20Equal%20Subset%20Sum%20Problem.cpp)
+     - [Count of Subset Sum Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Count%20of%20Subset%20Sum%20Problem.cpp)
+     - [Target Sum Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Target%20Sum%20Problem.cpp)
+  2. [Unbounded Knapsack Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Unbounded%20Knapsack%20Problem.cpp)
