@@ -1,11 +1,13 @@
 /*
 Merge Sort Implementation
 Approach: Divide and Conquer
+Method: Merging
 Time Complexity:
     Best: nlog(n)
     Average: nlog(n)
     Worst : O(nlog(n))
 Space Complexity: O(n)
+Stable: Yes
 */
 
 
