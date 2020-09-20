@@ -18,7 +18,7 @@ Data Structures and Algorithms
      - [Equal Sum Partition Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Partition%20Equal%20Subset%20Sum%20Problem.cpp)
      - [Count of Subset Sum Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Count%20of%20Subset%20Sum%20Problem.cpp)
      - [Minimum Subset Sum Difference](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Minimum%20Subset%20Sum%20Difference.cpp)
-     - [Count of Subset with given Difference](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Count%20of%20Subset%20with%20given%20Difference.cpp)
+     - [Count of Subsets with given Difference](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Count%20of%20Subsets%20with%20given%20Difference.cpp)
   2. [Unbounded Knapsack Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Unbounded%20Knapsack%20Problem.cpp)
      - [Rod Cutting Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Rod%20Cutting%20Problem.cpp)
      - [Coin Change I](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Coin%20Change%20I.cpp)
