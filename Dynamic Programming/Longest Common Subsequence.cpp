@@ -17,9 +17,9 @@ int longestCommonSubsequence(string X, string Y, int m, int n){
 int main(void){
 	string X, Y;
 	cout<<"Enter String 1: ";
-	cin>>X;
+	getline(cin,X);
 	cout<<"Enter String 2: ";
-	cin>>Y;
+	getline(cin,Y);
 	cout<<"\nLength of Longest Common Subsequence: "<<longestCommonSubsequence(X,Y,X.length(),Y.length());
 	return 0;
 }
