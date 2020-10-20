@@ -32,9 +32,8 @@ string printLCS(string X, string Y, int m, int n){
 		}
 		else
 		{
-			if(dp[i-1]>dp[j-1]){
+			if(dp[i-1]>dp[j-1])
 				i--;
-			}
 			else
 				j--;
 		}
