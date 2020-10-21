@@ -29,4 +29,8 @@ Data Structures and Algorithms
      - [Print Longest Common Subsequence](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Print%20Longest%20Common%20Subsequence.cpp)
      - [Shortest Common Supersequence](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Shortest%20Common%20Supersequence.cpp)
      - [Print Shortest Common Supersequence](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Print%20Shortest%20Common%20Supersequence.cpp)
-     - [Largest Repeating Subsequence](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Largest%20Repeating%20Subsequence.cpp)
+     - [Longest Palindromic Subequence](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Longest%20Palindromic%20Subsequence.cpp)
+     - [Longest Repeating Subsequence](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Longest%20Repeating%20Subsequence.cpp)
+     - [Minimum Number of Insertion and Deletion to convert String A to String B](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Minimum%20Number%20of%20Insertion%20and%20Deletion.cpp)
+     - [Minimum Number of Insertion to make Palindrome](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Minimum%20Number%20of%20Insertion%20to%20make%20Palindrome.cpp)
+  4. Matrix Chain Multiplication
