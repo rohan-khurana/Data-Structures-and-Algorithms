@@ -13,6 +13,16 @@ Data Structures and Algorithms
   5. [Quick Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Quick%20Sort.cpp)
   6. [Heap Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Heap%20Sort.cpp)
   7. [Shell Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Shell%20Sort.cpp)
+## Stack
+  1. [Nearest Greater to Left](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-light.cpp)
+  2. [Nearest Greater to Right](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-Right.cpp)
+  3. [Nearest Smaller to Left](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Smaller-to-Left.cpp)
+  4. [Nearest Smaller to Right](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Smaller-to-Right.cpp)
+  5. [Stock Span Problem](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Stock-Span-Problem.cpp)
+  6. [Maximum Area of Histogram](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Maximum-Area-Histogram.cpp)
+  7. [Maximum Area of Rectangle in Binary Matrix](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Maximum-Area-Rectangle-in-Binary-Matrix.cpp)
+  8. [Rain Water Trapping](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Rain-Water-Trapping.cpp)
+## Heap
 ## Dynamic Programming
   1. [0/1 Knapsack Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/0-1%20Knapsack%20Problem.cpp)
      - [Subset Sum Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Subset%20Sum%20Problem.cpp)
