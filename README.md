@@ -22,6 +22,9 @@ Data Structures and Algorithms
   6. [Maximum Area of Histogram](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Maximum-Area-Histogram.cpp)
   7. [Maximum Area of Rectangle in Binary Matrix](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Maximum-Area-Rectangle-in-Binary-Matrix.cpp)
   8. [Rain Water Trapping](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Rainwater-Trapping-Problem.cpp)
+  9. [Minimum Element in Stack]
+     - [With Extra Space](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Minimum-Element-in-Stack-with-Extra-Space.cpp)
+     - [With O(1) Space](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Minimum-Element-in-Stack-without-Extra-Space.cpp)
 ## Heap
 ## Dynamic Programming
   1. [0/1 Knapsack Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/0-1%20Knapsack%20Problem.cpp)
