@@ -26,6 +26,15 @@ Data Structures and Algorithms
      - [With Extra Space](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Minimum-Element-in-Stack-with-Extra-Space.cpp)
      - [With O(1) Space](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Minimum-Element-in-Stack-without-Extra-Space.cpp)
 ## Heap
+   1. [Kth Smallest Element in Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Kth-Smallest-Element-in-Array.cpp)
+   2. [K Largest Elements in Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/K-Largest-Elements-in-Array.cpp)
+   3. [Sort a Nearly Sorted (or K Sorted) Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Sort-a-Nearly-Sorted-Array.cpp)
+   4. [K Closest Numbers](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/K-Closest-Numbers.cpp)
+   5. [Top K Frequent Numbers](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Top-K-Frequent-Numbers.cpp)
+   6. [Frequency Sort](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Frequency-Sort.cpp)
+   7. [K Closest Points To Origin](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/K-Closest-Points-To-Origin.cpp)
+   8. [Connect Ropes to Minimize Cost](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Connect-Ropes-to-Minimize-Cost.cpp)
+   9. [Sum of Elements Between](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Sum-of-Elements-Between.cpp)
 ## Dynamic Programming
   1. [0/1 Knapsack Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/0-1%20Knapsack%20Problem.cpp)
      - [Subset Sum Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Subset%20Sum%20Problem.cpp)
