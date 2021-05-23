@@ -6,7 +6,8 @@
         "ostream": "cpp",
         "algorithm": "cpp",
         "cstdlib": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "xstddef": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
