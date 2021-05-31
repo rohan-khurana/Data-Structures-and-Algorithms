@@ -13,6 +13,10 @@ Data Structures and Algorithms
   5. [Quick Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Quick%20Sort.cpp)
   6. [Heap Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Heap%20Sort.cpp)
   7. [Shell Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Shell%20Sort.cpp)
+## Recursion
+  1. [Sort an Array using Recursion](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Sort-an-Array-using-Recursion.cpp)
+  2. [Sort a Stack using Recursion](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Sort-a-Stack.cpp)
+  3. [Delete Middle Element of Stack](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Delete-Middle-Element-of-Stack.cpp)
 ## Stack
   1. [Nearest Greater to Left](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-light.cpp)
   2. [Nearest Greater to Right](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-Right.cpp)
