@@ -17,6 +17,8 @@ Data Structures and Algorithms
   1. [Sort an Array using Recursion](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Sort-an-Array-using-Recursion.cpp)
   2. [Sort a Stack using Recursion](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Sort-a-Stack.cpp)
   3. [Delete Middle Element of Stack](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Delete-Middle-Element-of-Stack.cpp)
+  4. [Reverse a Stack using Recursion](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Reverse-a-Stack.cpp)
+  5. [Kth Symbol in Grammar](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Kth-Symbol-in-Grammar.cpp)
 ## Stack
   1. [Nearest Greater to Left](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-light.cpp)
   2. [Nearest Greater to Right](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-Right.cpp)
