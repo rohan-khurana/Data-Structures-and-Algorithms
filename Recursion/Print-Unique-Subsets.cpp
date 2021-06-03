@@ -23,7 +23,6 @@ void printSubsets(string ip, string op){
     return;
 }
 
-using namespace std;
 int main(){
     string ip;
     string op="";
