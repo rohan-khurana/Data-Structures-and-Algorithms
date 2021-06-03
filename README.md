@@ -19,6 +19,12 @@ Data Structures and Algorithms
   3. [Delete Middle Element of Stack](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Delete-Middle-Element-of-Stack.cpp)
   4. [Reverse a Stack using Recursion](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Reverse-a-Stack.cpp)
   5. [Kth Symbol in Grammar](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Kth-Symbol-in-Grammar.cpp)
+  6. [Print Powerset](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Print-Powerset.cpp)
+  7. [Print Unique Subset](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Print-Unique-Subsets.cpp)
+  8. [Permutation with Spaces](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Permutation-with-Spaces.cpp)
+  9. []()
+  10. [Balanced Parentheses](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Balance-Parentheses.cpp)
+
 ## Stack
   1. [Nearest Greater to Left](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-light.cpp)
   2. [Nearest Greater to Right](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-Right.cpp)
