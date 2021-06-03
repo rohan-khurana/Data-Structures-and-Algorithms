@@ -8,7 +8,8 @@
         "cstdlib": "cpp",
         "queue": "cpp",
         "xstddef": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "xstring": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
