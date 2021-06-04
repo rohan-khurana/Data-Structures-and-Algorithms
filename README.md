@@ -22,7 +22,7 @@ Data Structures and Algorithms
   6. [Print Powerset](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Print-Powerset.cpp)
   7. [Print Unique Subset](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Print-Unique-Subsets.cpp)
   8. [Permutation with Spaces](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Permutation-with-Spaces.cpp)
-  9. []()
+  9. [Letter Case Permutation](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Letter-Case-Permutation.cpp)
   10. [Balanced Parentheses](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Balance-Parentheses.cpp)
 
 ## Stack
