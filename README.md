@@ -5,6 +5,7 @@ Data Structures and Algorithms
   2. [Binary Search](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Searching%20Algorithms/Binary%20Search.cpp)
   3. [Jump Search](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Searching%20Algorithms/Jump%20Search.cpp)
   4. [Recursive Binary & Linear Search](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Searching%20Algorithms/Recursive%20Linear%20and%20Binary%20Search.cpp)
+
 ## Sorting Algorithms
   1. [Bubble Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Bubble%20Sort.cpp)
   2. [Selection Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Selection%20Sort.cpp)
@@ -13,6 +14,7 @@ Data Structures and Algorithms
   5. [Quick Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Quick%20Sort.cpp)
   6. [Heap Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Heap%20Sort.cpp)
   7. [Shell Sort](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Sorting%20Algorithms/Shell%20Sort.cpp)
+
 ## Recursion
   1. [Sort an Array using Recursion](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Sort-an-Array-using-Recursion.cpp)
   2. [Sort a Stack using Recursion](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Sort-a-Stack.cpp)
@@ -24,6 +26,7 @@ Data Structures and Algorithms
   8. [Permutation with Spaces](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Permutation-with-Spaces.cpp)
   9. [Letter Case Permutation](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Letter-Case-Permutation.cpp)
   10. [Balanced Parentheses](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Balance-Parentheses.cpp)
+  11. [Josephus Problem](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Recursion/Josephus-Problem.cpp)
 
 ## Stack
   1. [Nearest Greater to Left](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Nearest-Greater-to-light.cpp)
@@ -37,6 +40,7 @@ Data Structures and Algorithms
   9. Minimum Element in Stack
      - [With Extra Space](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Minimum-Element-in-Stack-with-Extra-Space.cpp)
      - [With O(1) Space](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Stack/Minimum-Element-in-Stack-without-Extra-Space.cpp)
+
 ## Heap
    1. [Kth Smallest Element in Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Kth-Smallest-Element-in-Array.cpp)
    2. [K Largest Elements in Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/K-Largest-Elements-in-Array.cpp)
@@ -47,6 +51,27 @@ Data Structures and Algorithms
    7. [K Closest Points To Origin](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/K-Closest-Points-To-Origin.cpp)
    8. [Connect Ropes to Minimize Cost](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Connect-Ropes-to-Minimize-Cost.cpp)
    9. [Sum of Elements Between](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Heap/Sum-of-Elements-Between.cpp)
+
+## Binary Search
+   1. [Binary Search on Reverse Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Binary-Search-on-Reverse-Sorted-Array.cpp)
+   2. [Order not known Search](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Order-not-known-Search.cpp)
+   3. [First and Last Occurence](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/First-and-Last-Occurence.cpp)
+   4. [Count of Element in Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Count-of-Element-in-Sorted-Array.cpp)
+   5. [Number of times Sorted Array Rotated](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Number-of-times-Sorted-Array-Rotated.cpp)
+   6. [Find Element in Rotated Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Find-Element-in-Rotated-Sorted-Array.cpp)
+   7. [Searching in Nearly Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Searching-in-Nearly-Sorted-Array.cpp)
+   8. [Floor of Element in Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Floor-of-Element-in-Sorted-Array.cpp)
+   9. [Ceil of Element in Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Ceil-of-Element-in-Sorted-Array.cpp)
+   10. [Next Alphabetical Element](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Next-Alphabetical-Element.cpp)
+   11. [Position of Element in Infinite Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Position-of-Element-in-Infinite-Sorted-Array.cpp)
+   12. [Index of First 1 in Binary Sorted Infinite Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Index-of-First-1-in-Binary-Sorted-Infinite-Array.cpp)
+   13. [Minimum Difference Element in Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Minimum-Difference-Element-in-Sorted-Array.cpp)
+   14. [Peak Element](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Peak-Element.cpp)
+   15. [Maximum Element in Bitonic Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Maximum-Element-in-Bitonic-Array.cpp)
+   16. [Search Element in Bitonic Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Search-Element-in-Bitonic-Array.cpp)
+   17. [Search in Row wise and Column wise Sorted Array](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Search-in-Row-wise-and-Column-wise-Sorted-Array.cpp)
+   18. [Allocate Minimum Number Of Pages](https://github.com/rohan-khurana/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Allocate-Minimum-Number-of-Pages.cpp)
+   
 ## Dynamic Programming
   1. [0/1 Knapsack Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/0-1%20Knapsack%20Problem.cpp)
      - [Subset Sum Problem](https://github.com/rohankhdbzmf/Data-Structures-and-Algorithms/blob/master/Dynamic%20Programming/Subset%20Sum%20Problem.cpp)
