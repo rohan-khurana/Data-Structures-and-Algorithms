@@ -29,7 +29,9 @@ bool detectLoop(Node* head){
     Node* slowPtr=head;
     Node* fastPtr=head;
     while(slowPtr && fastPtr && fastPtr->next){
-        if(slowPtr->value==fastPtr->value){
+        slowPtr=slowPtr->next;
+        fastPtr=fastPtr->next->next;
+        if(slowPtr==fastPtr){
             return true;
         }
     }
