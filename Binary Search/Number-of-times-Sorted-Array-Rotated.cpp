@@ -21,7 +21,7 @@ int rotatedArray(vector<int>& arr){
             end=mid-1;
         }
     }
-
+    return -1;
 }
 
 int main(){
